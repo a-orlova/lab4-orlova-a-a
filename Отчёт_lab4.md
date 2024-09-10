@@ -30,6 +30,7 @@ docker build -t aafire1 .
 docker build -t aafire2 .
 ```
 ![image](https://github.com/user-attachments/assets/4703d230-8ef2-44e7-84ef-832244d5bdf1)
+
 Все прошло успешно, поэтому теперь перехожу к самому запуску контейнеров. Для запуска контейнера-1 пишу команду:
 ```bash
 docker run -it aafire1 
